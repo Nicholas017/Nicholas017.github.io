@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="accountSettings">
+    <option name="activeProfile" value="profile:Nico-647143827725-Workshop-EDA" />
     <option name="activeRegion" value="us-east-1" />
+    <option name="recentlyUsedProfiles">
+      <list>
+        <option value="profile:Nico-647143827725-Workshop-EDA" />
+        <option value="profile:default" />
+      </list>
+    </option>
     <option name="recentlyUsedRegions">
       <list>
         <option value="us-east-1" />
@@ -9,6 +16,6 @@
     </option>
   </component>
   <component name="explorerToolWindow">
-    <option name="selectedTab" value="Amazon Q + CodeWhisperer" />
+    <option name="selectedTab" value="Explorer" />
   </component>
 </project>
